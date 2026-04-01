@@ -8,7 +8,8 @@
 **语言**: [English](README.md) | **中文**
 
 ---
-
+![cc1.png](docs/cc1.png)
+![cc2.png](docs/cc2.png)
 ## 目录
 
 - [深度分析文档 (`docs/`)](#深度分析文档-docs) — 遥测、模型代号、卧底模式、远程控制、未来路线图

@@ -9,6 +9,8 @@
 
 ---
 
+![cc1.png](docs/cc1.png)
+![cc2.png](docs/cc2.png)
 ## Table of Contents
 
 - [Deep Analysis Reports (`docs/`)](#deep-analysis-reports-docs) — Telemetry, codenames, undercover mode, remote control, future roadmap
